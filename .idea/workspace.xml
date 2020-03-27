@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82a3c508-4032-4ac8-b305-d387e591ccaa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1ZWb2PkdCS1fIg9MGL2gJT8IQbc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BotLineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bot-line.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.botlinedicoding.botline.BotLineApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82a3c508-4032-4ac8-b305-d387e591ccaa" name="Default Changelist" comment="" />
+      <created>1584957590943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584957590943</updated>
+      <workItem from="1584957601646" duration="2308000" />
+      <workItem from="1585288311115" duration="2351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585288804945">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="417" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1304.768@0.0.1304.768" timestamp="1585288804945" />
+    <state x="348" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1585288333639">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="348" y="208" key="com.intellij.ide.util.TipDialog/0.0.1304.768@0.0.1304.768" timestamp="1585288333639" />
+    <state x="34" y="86" key="new project wizard" timestamp="1585288773865">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="34" y="86" key="new project wizard/0.0.1304.768@0.0.1304.768" timestamp="1585288773865" />
+  </component>
+</project>
